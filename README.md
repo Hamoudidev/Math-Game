@@ -1,2 +1,23 @@
 # Math-Game
-Math Game using cpp.
+ - 🔢 Equivalent Programming Problems in This Project
+   - Generating Random Numbers.
+   - Handling User Input.
+   - Enums, Structure, Looping using.
+   - Conditional Logic.
+   - Organized Functions.
+   - Arithmetic Operations.
+   - String Manipulation.
+   - Validating User Inputs.
+   - Generating Mixed Questions.
+   - Game Loop & Replay Feature.
+   - Simple & Clear Screen.
+   - Dynamic Screen after each round.
+   - Scores System.
+   - Switch-Case for Decision Making.
+   - Working with boolean flags.
+ - 📊 Final Estimation
+   - This project is equivalent to solving at least 20+ individual programming problems commonly found in beginner-to-intermediate C++ exercises.
+   - Teaches how game logic develop (AI-generated questions, user interaction, scoring).
+   - Easy to expand in future.
+   - Combines problem-solving skills
+   - Covers multiple C++ in one application.
