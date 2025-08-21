@@ -1,4 +1,4 @@
-# Math-Game
+# Math Game
  - 🔢 Equivalent Programming Problems in This Project
    - Generating Random Numbers.
    - Handling User Input.
